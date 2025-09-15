@@ -18,7 +18,7 @@
 
 1. 下载最新版本的`vim-key-remap.exe`和`install-interception.exe`
 2. 以管理的身份运行一个 CMD 窗口，进入`install-interception.exe`文件所在目录
-3. 运行命令`install-interception.exe /install`安装驱动
+3. 运行命令`install-interception.exe /install`安装驱动, 安装成功之后重启
 4. 双击运行`vim-key-remap.exe`，看到后台运行的托盘图标即表示启动成功了
 
 > [!TIP]
